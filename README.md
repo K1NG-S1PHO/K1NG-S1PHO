@@ -10,15 +10,10 @@
     </linearGradient>
 
     <filter id="auraGlow">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feGaussianBlur stdDeviation="7"/>
     </filter>
   </defs>
 
-  <!-- primary pressure wave -->
   <path d="M0 70
            C200 10, 400 130, 600 70
            C800 10, 1000 130, 1200 70"
@@ -27,7 +22,6 @@
         fill="none"
         filter="url(#auraGlow)"/>
 
-  <!-- inner energy trace -->
   <path d="M0 85
            C200 35, 400 145, 600 85
            C800 35, 1000 145, 1200 85"
@@ -37,39 +31,21 @@
 
 </svg>
 <details>
-<summary>🧠 SYSTEM ACCESS // ROOT LAYER (CLICK TO INITIALIZE)</summary>
+<summary>🧠 SYSTEM ACCESS // ROOT LAYER</summary>
 
 ```bash
-$ sudo init --system-core
+$ sudo init --core
 
-booting infrastructure layer...
-loading AI runtime environment...
-detecting OS: Kali Linux
+booting system...
+loading AI runtime...
+activating network layer...
 
-> penetration layer: ACTIVE
-> networking stack: ONLINE
-> AI compute layer: STANDBY
-
---------------------------------------------------
+> Kali Linux detected
+> penetration tools: READY
+> AI engine: ONLINE
 
 $ whoami
 K1NG_SIPHO :: FULL-STACK INFRASTRUCTURE ENGINEER
 
-$ system_check --all
-
-✔ FastAPI backend      [RUNNING]
-✔ Node.js services     [RUNNING]
-✔ PyTorch engine       [LOADED]
-✔ TensorFlow runtime   [LOADED]
-✔ OpenCV pipeline      [ACTIVE]
-✔ Network tools        [KALI LINUX READY]
-
---------------------------------------------------
-
 $ echo $MISSION
-
-> "Build systems that think, scale, and survive real-world pressure."
-NOTE:
-This is not an interactive terminal.
-It is a system state representation.
-</details> ```
+Build systems that think, scale, and survive real-world load.
