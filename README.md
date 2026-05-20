@@ -1,16 +1,31 @@
-## Hi there 👋
+<!-- =============================== -->
+<!-- K1NG-S1PHO // ENGINEERING TERMINAL -->
+<!-- =============================== -->
 
-<!--
-**K1NG-S1PHO/K1NG-S1PHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=INITIALIZING+K1NG-S1PHO+TERMINAL...;LOADING+AI+SYSTEMS+%2B+INFRASTRUCTURE;SYNCING+DISTRIBUTED+MODULES;BACKEND+ARCHITECTURE+ACTIVE;LINUX+ENVIRONMENT+ONLINE" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## SYSTEM STATUS
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```txt
+ENGINEER        :: SIPHO KINYABO
+HANDLE          :: K1NG-S1PHO
+DISCIPLINE      :: COMPUTER SCIENCE
+ARCHETYPE       :: AI + INFRASTRUCTURE HYBRID ENGINEER
+FOCUS           :: AI SYSTEMS + BACKEND + INFRASTRUCTURE
+ENVIRONMENT     :: LINUX
+LOCATION        :: LUSAKA, ZAMBIA
+STATUS          :: BUILDING
+
+→ distributed systems fundamentals
+→ AI-assisted infrastructure pipelines
+→ backend architecture design
+→ scalable API orchestration
+→ containerized deployments (Docker)
+→ ML pipeline engineering
+→ automation of system workflows
