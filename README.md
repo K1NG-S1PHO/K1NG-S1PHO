@@ -1,4 +1,3 @@
-```markdown
 <svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" style="background-color:#000000;">
   <defs>
     <linearGradient id="purpleAuraTop" x1="0%" y1="0%" x2="100%" y2="100%">
