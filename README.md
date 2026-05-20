@@ -1,111 +1,76 @@
-<!-- ████████████████████████████████████████████████████████████████ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZATION...;ARCHITECTURE+LAYER+ONLINE;AI+%E2%9A%94+INFRASTRUCTURE+ENGINEER;BUILDING+SCALABLE+INTELLIGENT+SYSTEMS" />
-</p>
+<!-- PURPLE BLACK AURA DIVIDER -->
+<svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=for-the-badge&logo=serverless&logoColor=00FF41&labelColor=000000" />
-  <img src="https://img.shields.io/badge/LOCATION-LUSAKA_ZM-00FF41?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=000000" />
-  <img src="https://img.shields.io/badge/STACK-AI_%2B_BACKEND_%2B_DEVOPS-00FF41?style=for-the-badge&logo=codeforces&logoColor=00FF41&labelColor=000000" />
-</p>
+  <defs>
+    <linearGradient id="auraGradient" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#050008"/>
+      <stop offset="20%" stop-color="#2a0066"/>
+      <stop offset="50%" stop-color="#8a2be2"/>
+      <stop offset="80%" stop-color="#2a0066"/>
+      <stop offset="100%" stop-color="#050008"/>
+    </linearGradient>
 
----
+    <filter id="auraGlow">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-### `[root@system]:~# whoami`
+  <!-- primary pressure wave -->
+  <path d="M0 70
+           C200 10, 400 130, 600 70
+           C800 10, 1000 130, 1200 70"
+        stroke="url(#auraGradient)"
+        stroke-width="3"
+        fill="none"
+        filter="url(#auraGlow)"/>
 
-```text
-IDENTITY  :: K1NG_SIPHO
-ROLE      :: SYSTEM ARCHITECT / AI ENGINEER
-FOCUS     :: Intelligent Infrastructure & Applied AI Systems
-MODE      :: BUILD > THEORY > OPTIMIZE
-````
+  <!-- inner energy trace -->
+  <path d="M0 85
+           C200 35, 400 145, 600 85
+           C800 35, 1000 145, 1200 85"
+        stroke="#8a2be2"
+        stroke-width="1.5"
+        opacity="0.6"/>
 
----
+</svg>
+<details>
+<summary>🧠 SYSTEM ACCESS // ROOT LAYER (CLICK TO INITIALIZE)</summary>
 
-## ◼ SYSTEM PHILOSOPHY
+```bash
+$ sudo init --system-core
 
-```text
-Simplicity is not minimal effort.
-It is maximum control with minimum noise.
-```
+booting infrastructure layer...
+loading AI runtime environment...
+detecting OS: Kali Linux
 
-I design systems that:
+> penetration layer: ACTIVE
+> networking stack: ONLINE
+> AI compute layer: STANDBY
 
-* survive scale
-* reduce human friction
-* execute under constraint
-* prioritize correctness over complexity
+--------------------------------------------------
 
----
+$ whoami
+K1NG_SIPHO :: FULL-STACK INFRASTRUCTURE ENGINEER
 
-## ◼ ACTIVE ARCHITECTURES
+$ system_check --all
 
-### ▣ TB-DETECT // FIELD AI SYSTEM
+✔ FastAPI backend      [RUNNING]
+✔ Node.js services     [RUNNING]
+✔ PyTorch engine       [LOADED]
+✔ TensorFlow runtime   [LOADED]
+✔ OpenCV pipeline      [ACTIVE]
+✔ Network tools        [KALI LINUX READY]
 
-```text
-STATUS     :: STABLE
-DOMAIN     :: MEDICAL AI / RURAL DEPLOYMENT
-PURPOSE    :: X-ray assisted tuberculosis detection
-FOCUS      :: Low-resource environments, high-accuracy inference pipelines
-```
+--------------------------------------------------
 
-STACK:
+$ echo $MISSION
 
-* Python · FastAPI · Supabase
-* Flutter · TypeScript · TailwindCSS
-* ML pipelines · relational data systems
-
----
-
-### ▣ SYSTEMS UNDER DESIGN
-
-```text
-NODE-01 :: Intelligent Domain Architecture Engine
-NODE-02 :: Scalable AI Service Framework
-NODE-03 :: Automation-first Backend Ecosystems
-```
-
-Each system follows:
-
-> Requirements → Architecture → Execution → Optimization loop
-
----
-
-## ◼ ENGINEERING PROFILE
-
-```text
-AI/ML        ████████████████████░░
-BACKEND      ██████████████████████
-DEVOPS       ████████████████░░░░░░
-SYSTEM DESIGN██████████████████░░░░
-DATABASE     ██████████████████████
-```
-
----
-
-## ◼ TOOLCHAIN
-
-```text
-CORE LANGUAGES   :: Python · TypeScript · SQL · Dart · Java
-AI STACK         :: PyTorch · TensorFlow · Model Pipelines
-INFRASTRUCTURE   :: Docker · CI/CD · Supabase · Linux
-ARCHITECTURE     :: REST · System Design · Distributed Systems
-```
-
----
-
-## ◼ EXECUTION STATE
-
-```text
-> BUILD MODE ACTIVE
-> LATENCY TOLERANCE: LOW
-> SYSTEM RELIABILITY: PRIORITY
-> OUTPUT STANDARD: PRODUCTION-GRADE ONLY
-```
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Quiet+systems+produce+loud+results.;Execution+is+the+only+proof+of+understanding.;END+STATE:+SCALABLE+INTELLIGENCE" />
-</p>
-```
+> "Build systems that think, scale, and survive real-world pressure."
+NOTE:
+This is not an interactive terminal.
+It is a system state representation.
+</details> ```
