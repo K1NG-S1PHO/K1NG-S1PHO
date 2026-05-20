@@ -1,14 +1,13 @@
-<div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM+ARCHITECT+CORE...;AI+%2B+INFRASTRUCTURE+HYBRID+ENGINEER;ACTIONS+SPEAK+LOUDER+THAN+WORDS;THE+MATRIX+HAS+YOU](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM+ARCHITECT+CORE...;AI+%2B+INFRASTRUCTURE+HYBRID+ENGINEER;ACTIONS+SPEAK+LOUDER+THAN+WORDS;THE+MATRIX+HAS+YOU)" alt="Typing SVG" />
-</div>
+```markdown
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM+ARCHITECT+CORE...;AI+%2B+INFRASTRUCTURE+HYBRID+ENGINEER;ACTIONS+SPEAK+LOUDER+THAN+WORDS;THE+MATRIX+HAS+YOU" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="[https://img.shields.io/badge/HOST_OS-LINUX-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000](https://img.shields.io/badge/HOST_OS-LINUX-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000)" alt="Linux OS" />
-  <img src="[https://img.shields.io/badge/SECTOR-LUSAKA_ZAMBIA-00FF41?style=for-the-badge&logo=gnulinux&logoColor=00FF41&labelColor=000000](https://img.shields.io/badge/SECTOR-LUSAKA_ZAMBIA-00FF41?style=for-the-badge&logo=gnulinux&logoColor=00FF41&labelColor=000000)" alt="Location" />
-  <img src="[https://img.shields.io/badge/FOCUS-AI_%2B_DEVOPS-00FF41?style=for-the-badge&labelColor=000000](https://img.shields.io/badge/FOCUS-AI_%2B_DEVOPS-00FF41?style=for-the-badge&labelColor=000000)" alt="Focus" />
-</div>
-
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/HOST_OS-LINUX-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000" alt="Linux OS" />
+  <img src="https://img.shields.io/badge/SECTOR-LUSAKA_ZAMBIA-00FF41?style=for-the-badge&logo=gnulinux&logoColor=00FF41&labelColor=000000" alt="Location" />
+  <img src="https://img.shields.io/badge/FOCUS-AI_%2B_DEVOPS-00FF41?style=for-the-badge&labelColor=000000" alt="Focus" />
+</p>
 
 ### 🖥️ `[root@K1NG-S1PHO:~]# sysctl --analyze-operator`
 
@@ -63,9 +62,5 @@
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   [STATUS: OPERATIONAL]   [PIPELINE: UNBROKEN]   [REPOS: TARGET ENGAGED]
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-```
-
-```
 
 ```
