@@ -1,13 +1,13 @@
 
 <svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" style="background-color:#000000;">
   <defs>
-    <linearGradient id="purpleAura" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="purpleAuraTop" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#4B0082" stop-opacity="0.8"/>
       <stop offset="50%" stop-color="#8A2BE2" stop-opacity="1"/>
       <stop offset="100%" stop-color="#A349A4" stop-opacity="0.6"/>
     </linearGradient>
   </defs>
-  <path fill="url(#purpleAura)" d="M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z">
+  <path fill="url(#purpleAuraTop)" d="M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z">
     <animate attributeName="d" dur="5s" repeatCount="indefinite" values="
       M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z;
       M0,64C120,96,240,43,360,53.3C480,64,600,85.3,720,80C840,75,960,43,1080,53.3C1200,64,1320,96,1440,85.3L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z;
@@ -33,7 +33,7 @@
 ```text
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ENGINEER        :: KING SIPHO
-  ACADEMIC STAGE  :: L4 COMPUTER SCIENCE & SYSTEM ARCHITECT
+  ACADEMIC STAGE  :: COMPUTER SCIENCE STUDENT & SYSTEM ARCHITECT
   DISCIPLINE      :: AI ENGINEERING // DEVOPS HYBRID
   ENVIRONMENT     :: LINUX ENVIRONMENT ONLY [NO BLUE SCREENS PERMITTED]
   METHODOLOGY     :: SYSTEM HIERARCHY & ARCHITECTURAL REQUIREMENTS
@@ -105,11 +105,13 @@
 
 ```text
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  "No one stands on the top of the world from the beginning. Not you, 
-   not me, not even gods. But the unbearable vacancy of the throne 
-   in heaven is over. From now on... I will be standing in it."
+  "Whisper my name and don't say it too loud."
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   [STATUS: ENTHRONED]   [PIPELINE: STABLE]   [OS: LINUX NATIVE]   [YAP: DETECTED=0%]
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```
+
+```
 
 ```
