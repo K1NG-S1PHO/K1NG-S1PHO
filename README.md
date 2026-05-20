@@ -1,4 +1,3 @@
-<!-- PURPLE BLACK AURA DIVIDER -->
 <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
