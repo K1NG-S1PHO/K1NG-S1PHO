@@ -14,11 +14,12 @@
 
 ```txt
 ┌──────────────────────────────────────────────────────────────────────────┐
-│  OPERATOR    :: KING SIPHO                                              │
+│  OPERATOR    :: K1NG-S1PHO                                              │
 │  DISCIPLINE  :: COMPUTER SCIENCE & INFRASTRUCTURE ARCHITECTURE          │
 │  ALIGNMENT   :: AI / DISTRIBUTED SYSTEMS HYBRID                         │
 │  OBJECTIVE   :: CONSTRUCTING FAULT-TOLERANT DIGITAL REALITIES           │
 └──────────────────────────────────────────────────────────────────────────┘
+
 ⚡ NEURAL NETWORKS & COGNITIVE ENGINE (ACTIVE NODES)
 🩺 [NODE::01] // TB-DETECT (IN DEVELOPMENT)
 Mission: AI-assisted tuberculosis detection pipeline tailored for resource-constrained, rural healthcare environments. Bridging optimized machine learning models with portable architecture.
@@ -37,15 +38,17 @@ Plaintext
  🛠️ LANGUAGES         [██████████████████████████████] Python | TypeScript | JS | Dart | SQL | Java
  🐳 INFRASTRUCTURE    [████████████████████████] Linux | Docker | GitHub Actions | PostgreSQL | Supabase
  🧠 AI / ML DATA      [████████████████████] FastAPI | TensorFlow | PyTorch | Data Pipelines
- 🎨 INTERFACES        [██████████████] Flutter | React.js | TailwindCSS
+ 🎨 INTERFACES        [██████████████] Flutter | Next JS | TailwindCSS
 📊 LIVE DIAGNOSTICS & SYSTEM METRICS
+
 💾 MEMORY LOGS // COMPILE HISTORY
-CSS
 [2026-05-18] :: Optimizing core backend architectures. Structural latency minimized.
 [2026-05-14] :: Initialized training weights for rural ML pipelines.
 [2026-05-09] :: Containerized complete development ecosystem via Docker Compose.
 [2026-05-03] :: Deep dive into distributed systems fundamentals & consensus protocols.
+
 📍 OPERATOR TELEMETRY
+Plaintext
 +--------------------------------------------------------------------------+
 |  "Good infrastructure is invisible until it fails." - System Principle  |
 +--------------------------------------------------------------------------+
