@@ -1,4 +1,3 @@
-
 <svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" style="background-color:#000000;">
   <defs>
     <linearGradient id="purpleAuraTop" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -7,17 +6,17 @@
       <stop offset="100%" stop-color="#A349A4" stop-opacity="0.6"/>
     </linearGradient>
   </defs>
-  <path fill="url(#purpleAuraTop)" d="M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z">
-    <animate attributeName="d" dur="5s" repeatCount="indefinite" values="
-      M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z;
-      M0,64C120,96,240,43,360,53.3C480,64,600,85.3,720,80C840,75,960,43,1080,53.3C1200,64,1320,96,1440,85.3L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z;
-      M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z
+  <path fill="url(#purpleAuraTop)" d="M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L0,0Z">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+      M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L0,0Z;
+      M0,64C120,96,240,43,360,53.3C480,64,600,85.3,720,80C840,75,960,43,1080,53.3C1200,64,1320,96,1440,85.3L1440,0L0,0Z;
+      M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L0,0Z
     "/>
   </path>
 </svg>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1800&color=8A2BE2&center=true&vCenter=true&width=850&lines=Since+when+were+you+under+the+impression...;...that+you+understood+the+architecture%3F;PERCEPTION+IS+A+FLAW+OF+THE+OBSERVER.;INITIALIZING+KING+SIPHO+MAINFRAME...;THE+VACANCY+OF+THE+THRONE+IS+OVER." alt="Aizen Typing Engine" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1800&color=8A2BE2&center=true&vCenter=true&width=850&lines=Since+when+were+you+under+the+impression...;...that+you+understood+the+architecture%3F;PERCEPTION+IS+A+FLAW+OF+THE+OBSERVER.;INITIALIZING+KING+SIPHO+MAINFRAME...;THE+VACANCY+OF+THE+THRONE+IS+OVER." alt="Mainframe Input Architecture" />
 </p>
 
 <p align="center">
@@ -28,7 +27,7 @@
 
 ---
 
-## 🖥️ `[root@K1NG-S1PHO:~]# sysctl --awaken-reiatsu`
+## 🖥️ `[root@K1NG-S1PHO:~]# sysctl --compile-mainframe`
 
 ```text
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -42,7 +41,7 @@
 
 ```
 
-### 👁️ CURRENT FOCUS MATRIX
+### 👁️ SYSTEM DESIGN CORE DIRECTIVES
 
 ```text
   → Mastery of distributed systems fundamentals & high fault tolerance
@@ -60,44 +59,43 @@
 
 ### ⚡ `[NODE::01]` // FAST MOBILE CENTER (ACTIVE PRODUCTION)
 
-> **REIATSU PROFILE:** High-throughput, modular service-based mobile backend system designed for extreme scalability. Actively processing live operational datasets across interconnected client infrastructures.
+> **SYSTEM PROFILE:** High-throughput, modular service-based mobile backend system designed for extreme scalability. Actively processing live operational datasets across interconnected client infrastructures.
 
 * **ARCHITECTURAL CORE:** `Node.js` · `Scalable API Routing` · `Database Integration` · `Backend Logic Architecture`
 
 ### ⚡ `[NODE::02]` // TB-DETECT (IN DEVELOPMENT)
 
-> **REIATSU PROFILE:** AI-assisted tuberculosis detection pipeline engineered for rural, resource-constrained healthcare sectors. Currently scaling the frontend system to smoothly interface with advanced remote medical image analysis engines.
+> **SYSTEM PROFILE:** AI-assisted tuberculosis detection pipeline engineered for rural, resource-constrained healthcare sectors. Currently scaling the frontend system to smoothly interface with advanced remote medical image analysis engines.
 
-* **ARCHITECTURAL CORE:** `Flutter Framework` · `Kotlin Native` · `Python` · `FastAPI` · `Supabase Engine`
-
----
-
-## 🛠️ THE SYSTEM TOOLCHAIN // COMPILATION ARSENAL
-
-### 🔮 Core Programming Lexicon
-
-```text
-  Python · TypeScript · JavaScript · Dart · Kotlin · Java · Advanced Relational SQL
-
-```
-
-### 🌌 Infrastructure & Containerization
-
-```text
-  Linux Kernel Architecture · Docker Containers · GitHub Actions Automation · PostgreSQL Engine · Supabase Architecture
-
-```
-
-### 🧠 Intelligence, Data Models & Interfaces
-
-```text
-  FastAPI Framework · TensorFlow · Integrated Machine Learning Pipelines · Flutter Framework · React.js · TailwindCSS
-
-```
+* **ARCHITECTURAL CORE:** `Flutter` · `Kotlin Native` · `Python` · `FastAPI` · `Supabase`
 
 ---
 
-## 🎛️ SYSTEM DIAGNOSTICS // THE REIATSU SPECTRUM
+## ⚙️ TECHNICAL ARSENAL // PRECISE COMPILATION
+
+### 💻 Core Languages
+
+* `Python` · `TypeScript` · `JavaScript` · `Dart` · `Kotlin` · `Java` · `SQL`· `CSS`· `HTML`
+
+### 🧠 Artificial Intelligence & Data Engineering
+
+* `TensorFlow` · `FastAPI Framework` · `Integrated Machine Learning Pipelines` · `Data System Models`
+
+### 🗄️ Backend Ecosystems & Databases
+
+* `Node.js Runtime` · `PostgreSQL` · `MySQL Workbench``MariaDB` ·
+
+### 🌌 Infrastructure & DevOps Pipelines
+
+* `Linux Kernel Architecture` · `Docker Containers` · `GitHub Actions Automation`
+
+### 🎨 Frontend Frameworks & Interfaces
+
+* `Flutter` · `Next.js` · `TailwindCSS` · `Figma` · `Webflow` · `Svelte` 
+
+---
+
+## 🎛️ SYSTEM DIAGNOSTICS // MATRIX METRICS
 
 ---
 
