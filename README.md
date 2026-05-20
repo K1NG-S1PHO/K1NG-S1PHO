@@ -1,66 +1,111 @@
-
+<!-- ████████████████████████████████████████████████████████████████ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM+ARCHITECT+CORE...;AI+%2B+INFRASTRUCTURE+HYBRID+ENGINEER;ACTIONS+SPEAK+LOUDER+THAN+WORDS;THE+MATRIX+HAS+YOU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZATION...;ARCHITECTURE+LAYER+ONLINE;AI+%E2%9A%94+INFRASTRUCTURE+ENGINEER;BUILDING+SCALABLE+INTELLIGENT+SYSTEMS" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HOST_OS-LINUX-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000" alt="Linux OS" />
-  <img src="https://img.shields.io/badge/SECTOR-LUSAKA_ZAMBIA-00FF41?style=for-the-badge&logo=gnulinux&logoColor=00FF41&labelColor=000000" alt="Location" />
-  <img src="https://img.shields.io/badge/FOCUS-AI_%2B_DEVOPS-00FF41?style=for-the-badge&labelColor=000000" alt="Focus" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=for-the-badge&logo=serverless&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LOCATION-LUSAKA_ZM-00FF41?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STACK-AI_%2B_BACKEND_%2B_DEVOPS-00FF41?style=for-the-badge&logo=codeforces&logoColor=00FF41&labelColor=000000" />
 </p>
 
-### 🖥️ `[root@K1NG-S1PHO:~]# sysctl --analyze-operator`
+---
+
+### `[root@system]:~# whoami`
 
 ```text
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  IDENT         :: K1NG-S1PHO
-  STAGE         :: L4 SYSTEM ARCHITECTURE & REQUIREMENTS ENGINEERING
-  DISCIPLINE    :: AI ENGINEERING // DEVOPS INFRASTRUCTURE
-  METHODOLOGY   :: DEEP SYSTEM HIERARCHY ANALYSIS
-  CURRENT STATE :: DEPLOYING SCALABLE SOLUTIONS
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IDENTITY  :: K1NG_SIPHO
+ROLE      :: SYSTEM ARCHITECT / AI ENGINEER
+FOCUS     :: Intelligent Infrastructure & Applied AI Systems
+MODE      :: BUILD > THEORY > OPTIMIZE
+````
 
+---
+
+## ◼ SYSTEM PHILOSOPHY
+
+```text
+Simplicity is not minimal effort.
+It is maximum control with minimum noise.
 ```
 
-## 🛑 ACTIVE DIRECTIVES // INFRASTRUCTURE PIPELINES
+I design systems that:
 
-### ⚡ `[NODE::01]` // DOMAIN ARCHITECTURE SYSTEM (IN DEVELOPMENT)
-
-> **DATA ENGINE:** End-to-end system architecture designed to solve highly specific domain problems for targeted user groups. Built on rigorous requirements engineering to ensure zero-waste functionality.
-
-* **ARCHITECTURAL COMPILING:** `AI/ML Engines` · `Automated CI/CD` · `Distributed Backend`
-
-### ⚡ `[NODE::02]` // TB-DETECT (STABLE)
-
-> **DATA ENGINE:** AI-assisted tuberculosis detection platform engineered for resource-constrained, rural healthcare deployment sectors. Eliminating latency between high-compute models and field architecture.
-
-* **ARCHITECTURAL COMPILING:** `Python` · `FastAPI` · `Supabase` · `Flutter` · `TypeScript` · `TailwindCSS` · `Relational Databases`
+* survive scale
+* reduce human friction
+* execute under constraint
+* prioritize correctness over complexity
 
 ---
 
-## 🛠️ DEVOPS & AI ARSENAL // COMPILATION STACK
+## ◼ ACTIVE ARCHITECTURES
+
+### ▣ TB-DETECT // FIELD AI SYSTEM
 
 ```text
- ⚡ INTELLIGENCE     [██████████████████████████████] AI/ML | TensorFlow | PyTorch | Data Pipelines
- ⚡ INFRASTRUCTURE   [████████████████████████] DevOps | Docker | CI/CD | PostgreSQL | Supabase
- ⚡ CORE LANGUAGES   [████████████████████] Python | TypeScript | SQL | Dart | Java
- ⚡ SYSTEM DESIGN    [██████████████] Requirements Engineering | System Hierarchies | API Routing
+STATUS     :: STABLE
+DOMAIN     :: MEDICAL AI / RURAL DEPLOYMENT
+PURPOSE    :: X-ray assisted tuberculosis detection
+FOCUS      :: Low-resource environments, high-accuracy inference pipelines
+```
 
+STACK:
+
+* Python · FastAPI · Supabase
+* Flutter · TypeScript · TailwindCSS
+* ML pipelines · relational data systems
+
+---
+
+### ▣ SYSTEMS UNDER DESIGN
+
+```text
+NODE-01 :: Intelligent Domain Architecture Engine
+NODE-02 :: Scalable AI Service Framework
+NODE-03 :: Automation-first Backend Ecosystems
+```
+
+Each system follows:
+
+> Requirements → Architecture → Execution → Optimization loop
+
+---
+
+## ◼ ENGINEERING PROFILE
+
+```text
+AI/ML        ████████████████████░░
+BACKEND      ██████████████████████
+DEVOPS       ████████████████░░░░░░
+SYSTEM DESIGN██████████████████░░░░
+DATABASE     ██████████████████████
 ```
 
 ---
 
-## 🎛️ COMMAND METRICS // LIVE DIAGNOSTICS
+## ◼ TOOLCHAIN
+
+```text
+CORE LANGUAGES   :: Python · TypeScript · SQL · Dart · Java
+AI STACK         :: PyTorch · TensorFlow · Model Pipelines
+INFRASTRUCTURE   :: Docker · CI/CD · Supabase · Linux
+ARCHITECTURE     :: REST · System Design · Distributed Systems
+```
 
 ---
 
-## 📍 TELEMETRY LOGON // EXECUTION IS TRUTH
+## ◼ EXECUTION STATE
 
 ```text
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  "Good infrastructure is invisible until it fails." 
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  [STATUS: OPERATIONAL]   [PIPELINE: UNBROKEN]   [REPOS: TARGET ENGAGED]
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> BUILD MODE ACTIVE
+> LATENCY TOLERANCE: LOW
+> SYSTEM RELIABILITY: PRIORITY
+> OUTPUT STANDARD: PRODUCTION-GRADE ONLY
+```
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Quiet+systems+produce+loud+results.;Execution+is+the+only+proof+of+understanding.;END+STATE:+SCALABLE+INTELLIGENCE" />
+</p>
 ```
