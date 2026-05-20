@@ -1,122 +1,115 @@
 
+<svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" style="background-color:#000000;">
+  <defs>
+    <linearGradient id="purpleAura" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4B0082" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#8A2BE2" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#A349A4" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#purpleAura)" d="M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite" values="
+      M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z;
+      M0,64C120,96,240,43,360,53.3C480,64,600,85.3,720,80C840,75,960,43,1080,53.3C1200,64,1320,96,1440,85.3L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z;
+      M0,96C120,85.3,240,64,360,53.3C480,43,600,43,720,53.3C840,64,960,85.3,1080,90.7C1200,96,1320,85.3,1440,64L1440,0L1320,0C1200,0,1080,0,960,0C840,0,720,0,600,0C480,0,360,0,240,0C120,0,0,0,0,0Z
+    "/>
+  </path>
+</svg>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1500&color=00FF41&center=true&vCenter=true&width=850&lines=INITIALIZING+KING+SIPHO+TERMINAL...;LOADING+AI+SYSTEMS+%2B+INFRASTRUCTURE...;SYNCING+DISTRIBUTED+MODULES...;BACKEND+ARCHITECTURE+ACTIVE...;THE+MATRIX+HAS+YOU." alt="Mainframe Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1800&color=8A2BE2&center=true&vCenter=true&width=850&lines=Since+when+were+you+under+the+impression...;...that+you+understood+the+architecture%3F;PERCEPTION+IS+A+FLAW+OF+THE+OBSERVER.;INITIALIZING+KING+SIPHO+MAINFRAME...;THE+VACANCY+OF+THE+THRONE+IS+OVER." alt="Aizen Typing Engine" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HOST_OS-LINUX-000000?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000" alt="Linux OS" />
-  <img src="https://img.shields.io/badge/SECTOR-LUSAKA_ZAMBIA-000000?style=for-the-badge&logo=gnulinux&logoColor=00FF41&labelColor=000000" alt="Location" />
-  <img src="https://img.shields.io/badge/FOCUS-AI_%2B_INFRASTRUCTURE-000000?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=000000" alt="Focus" />
+  <img src="https://img.shields.io/badge/HOST_ENVIRONMENT-PURE_LINUX_KERNEL-8A2BE2?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=000000" alt="Linux Native" />
+  <img src="https://img.shields.io/badge/OPERATOR_SECTOR-LUSAKA_ZAMBIA-8A2BE2?style=for-the-badge&logo=gnulinux&logoColor=FFFFFF&labelColor=000000" alt="Location" />
+  <img src="https://img.shields.io/badge/ALIGNMENT-AI_+_INFRASTRUCTURE-8A2BE2?style=for-the-badge&logo=matrix&logoColor=FFFFFF&labelColor=000000" alt="Focus Stack" />
 </p>
 
 ---
 
-## 💻 `[root@K1NG-S1PHO:~]# sysctl --compile-identity`
+## 🖥️ `[root@K1NG-S1PHO:~]# sysctl --awaken-reiatsu`
 
 ```text
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ENGINEER        :: KING SIPHO
-  DISCIPLINE      :: COMPUTER SCIENCE // L4 SYSTEM ARCHITECTURE
-  FOCUS           :: AI SYSTEMS + INFRASTRUCTURE DEPLOYMENT
-  ARCHETYPE       :: AI + INFRASTRUCTURE HYBRID ENGINEER
-  METHODOLOGY     :: DEEP SYSTEM HIERARCHY & REQUIREMENTS ENGINEERING
-  STATUS          :: CONTINUOUS EXECUTION // ACTIVE BUILDING
+  ACADEMIC STAGE  :: L4 COMPUTER SCIENCE & SYSTEM ARCHITECT
+  DISCIPLINE      :: AI ENGINEERING // DEVOPS HYBRID
+  ENVIRONMENT     :: LINUX ENVIRONMENT ONLY [NO BLUE SCREENS PERMITTED]
+  METHODOLOGY     :: SYSTEM HIERARCHY & ARCHITECTURAL REQUIREMENTS
+  CURRENT STATUS  :: SUBJUGATING DISTRIBUTED ARCHITECTURES
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```
 
-### 🧠 CURRENT DIRECTIVES & SYSTEM FOCUS
+### 👁️ CURRENT FOCUS MATRIX
 
 ```text
-  → Distributed systems fundamentals & fault tolerance
-  → AI-assisted infrastructure pipelines
-  → Advanced backend architecture design
-  → Scalable API orchestration & routing optimization
-  → Containerized deployments via Docker & orchestration systems
-  → ML pipeline engineering & heavy data workflows
-  → Automation of secure enterprise system workflows
+  → Mastery of distributed systems fundamentals & high fault tolerance
+  → Engineering fluid, automated AI-assisted infrastructure pipelines
+  → Constructing modular backend architecture designs for massive traffic
+  → Orchestrating multi-layered scalable API configurations
+  → Provisioning isolated application containers via Docker systems
+  → Formulating complex machine learning model data integration pipelines
 
 ```
 
 ---
 
-## 🛑 ACTIVE SYSTEMS // PRODUCTION ENVIRONMENT
+## 🛑 ACTIVE SYSTEMS // EXPERIMENTAL DEPLOYMENTS
 
-### ⚡ `[SYSTEM::01]` // TB-DETECT (IN DEVELOPMENT)
+### ⚡ `[NODE::01]` // FAST MOBILE CENTER (ACTIVE PRODUCTION)
 
-> **MISSION PROFILE:** AI-assisted tuberculosis detection platform engineered for resource-constrained, rural healthcare deployment sectors. Eliminating structural latency between high-compute ML models and portable edge infrastructure.
+> **REIATSU PROFILE:** High-throughput, modular service-based mobile backend system designed for extreme scalability. Actively processing live operational datasets across interconnected client infrastructures.
 
-* **ARCHITECTURAL STACK:** `Python` · `FastAPI` · `Flutter` · `TypeScript` · `Supabase` · `AI/ML Engines`
-* **CORE LOGIC:** Portable imaging arrays coupled with automated cloud diagnostics to deliver instant diagnostic classification where margin is limited.
+* **ARCHITECTURAL CORE:** `Node.js` · `Scalable API Routing` · `Database Integration` · `Backend Logic Architecture`
 
-### ⚡ `[SYSTEM::02]` // FAST MOBILE CENTER (OPERATIONAL)
+### ⚡ `[NODE::02]` // TB-DETECT (IN DEVELOPMENT)
 
-> **MISSION PROFILE:** High-throughput, modular service-based mobile backend ecosystem engineered for massive transactional scale. Orchestrating fluid communication channels across multi-client architectures.
+> **REIATSU PROFILE:** AI-assisted tuberculosis detection pipeline engineered for rural, resource-constrained healthcare sectors. Currently scaling the frontend system to smoothly interface with advanced remote medical image analysis engines.
 
-* **ARCHITECTURAL STACK:** `Node.js` · `RESTful APIs` · `Database Integration` · `Scalable Backend Design`
-* **CORE LOGIC:** Application Factory patterns executing high-volume query parsing and service-layer extraction.
+* **ARCHITECTURAL CORE:** `Flutter Framework` · `Kotlin Native` · `Python` · `FastAPI` · `Supabase Engine`
 
 ---
 
-## 🛠️ SYSTEM TOOLCHAIN // THE ARSENAL
+## 🛠️ THE SYSTEM TOOLCHAIN // COMPILATION ARSENAL
 
-### 🗲 Core Lexicon
+### 🔮 Core Programming Lexicon
 
 ```text
-  Python · TypeScript · JavaScript · Dart · SQL · Java · Relational Database Logic
+  Python · TypeScript · JavaScript · Dart · Kotlin · Java · Advanced Relational SQL
 
 ```
 
-### 🗲 Infrastructure & Tooling
+### 🌌 Infrastructure & Containerization
 
 ```text
-  Linux Environments · Docker Containerization · GitHub Actions CI/CD · PostgreSQL · Supabase
+  Linux Kernel Architecture · Docker Containers · GitHub Actions Automation · PostgreSQL Engine · Supabase Architecture
 
 ```
 
-### 🗲 Intelligence & Data Engineering
+### 🧠 Intelligence, Data Models & Interfaces
 
 ```text
-  FastAPI Framework · TensorFlow · ML Pipelines · Complex Statistical Data Systems
-
-```
-
-### 🗲 Interface Frameworks
-
-```text
-  Flutter Framework · React.js · TailwindCSS · Modular UI/UX Architecture
+  FastAPI Framework · TensorFlow · Integrated Machine Learning Pipelines · Flutter Framework · React.js · TailwindCSS
 
 ```
 
 ---
 
-## 🎛️ COMMAND METRICS // LIVE DIAGNOSTICS
+## 🎛️ SYSTEM DIAGNOSTICS // THE REIATSU SPECTRUM
 
 ---
 
-## 💾 SYSTEM CORE LOGS // TIMELINE REIGN
-
-```text
- ┌────────────────────────────────────────────────────────────────────────┐
-  [2026-05-18] :: Backend architecture system refined & modularized.
-  [2026-05-14] :: ML pipeline structure initialized for deep image parsing.
-  [2026-05-09] :: Containerized deployment workflow established via Docker.
-  [2026-05-03] :: Distributed systems research ongoing. Architectural depth scaled.
- └────────────────────────────────────────────────────────────────────────┘
-
-```
-
-## 📍 TELEMETRY LOGON // EXECUTION IS TRUTH
+## 📍 TELEMETRY LOGON // SYSTEM TIMELINE
 
 ```text
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  "Good infrastructure is invisible until it fails." — System Principle
+  "No one stands on the top of the world from the beginning. Not you, 
+   not me, not even gods. But the unbearable vacancy of the throne 
+   in heaven is over. From now on... I will be standing in it."
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  [DEPLOYMENT: ACTIVE]    [SYSTEM STATE: OPERATIONAL]    [PIPELINE: UNBROKEN]
+  [STATUS: ENTHRONED]   [PIPELINE: STABLE]   [OS: LINUX NATIVE]   [YAP: DETECTED=0%]
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-```
-
-```
 
 ```
