@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=header&text=&fontSize=90" width="100%" alt="Top Reiatsu Aura" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=header" width="100%" alt="Top Aura" />
 </p>
 
 <p align="center">
