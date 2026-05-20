@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM+ARCHITECT+CORE...;AI+%2B+INFRASTRUCTURE+HYBRID+ENGINEER;ACTIONS+SPEAK+LOUDER+THAN+WORDS;THE+MATRIX+HAS+YOU" alt="Typing SVG" />
 </p>
