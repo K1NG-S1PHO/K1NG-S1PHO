@@ -3,7 +3,7 @@
 <!-- ========================================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=>>>>+WAKE+UP%2C+SIPHO...;>>>>+THE+MATRIX+HAS+YOU...;>>>>+INITIALIZING+CORE+COMPUTE+KERNEL...;>>>>+SYSTEM+STATUS%3A+ELITE+COMPILER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=>>>>+WAKE+UP%2C+S1PHO...;>>>>+THE+MATRIX+HAS+YOU...;>>>>+INITIALIZING+CORE+COMPUTE+KERNEL...;>>>>+SYSTEM+STATUS%3A+ELITE+COMPILER" />
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ---
 
-### 🖥️ `[root@KING_SIPHO:~]# sysctl --all | grep identity`
+### 🖥️ `[root@K1NG-S1PHO:~]# sysctl --all | grep identity`
 
 ```txt
 ┌──────────────────────────────────────────────────────────────────────────┐
-│  OPERATOR    :: KING SIPHO                                              │
+│  OPERATOR    :: K1NG S1PHO                                              │
 │  DISCIPLINE  :: COMPUTER SCIENCE & INFRASTRUCTURE ARCHITECTURE          │
 │  ALIGNMENT   :: AI / DISTRIBUTED SYSTEMS HYBRID                         │
 │  OBJECTIVE   :: CONSTRUCTING FAULT-TOLERANT DIGITAL REALITIES           │
