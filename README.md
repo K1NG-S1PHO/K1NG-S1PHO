@@ -1,3 +1,4 @@
+```markdown
 <!-- ========================================================================= -->
 <!-- K1NG-S1PHO // THE MAINFRAME REBOOTED // ARCHITECTURE V2.0.26              -->
 <!-- ========================================================================= -->
@@ -23,3 +24,59 @@
 │  ALIGNMENT   :: AI / DISTRIBUTED SYSTEMS HYBRID                         │
 │  OBJECTIVE   :: CONSTRUCTING FAULT-TOLERANT DIGITAL REALITIES           │
 └──────────────────────────────────────────────────────────────────────────┘
+
+```
+
+## ⚡ NEURAL NETWORKS & COGNITIVE ENGINE (ACTIVE NODES)
+
+### 🩺 `[NODE::01]` // TB-DETECT (IN DEVELOPMENT)
+
+> **Mission:** AI-assisted tuberculosis detection pipeline tailored for resource-constrained, rural healthcare environments. Bridging highly optimized machine learning models with portable architecture.
+
+* **Architectural Stack:** `Python` · `FastAPI` · `Flutter` · `TypeScript` · `Supabase` · `AI/ML Engines`
+* **System Core:** Image processing pipelines engineered to deploy over lightweight mobile infrastructure.
+
+### ⚡ `[NODE::02]` // FAST MOBILE CENTER (OPERATIONAL)
+
+> **Mission:** High-throughput, modular service-based backend designed for scale, orchestrating multiple mobile clients seamlessly.
+
+* **Architectural Stack:** `Node.js` · `RESTful APIs` · `Relational Databases` · `Distributed Caching`
+
+---
+
+## 🛠️ TECH STACK HARDWARE COMPILING (THE CORE ARSENAL)
+
+```txt
+ 🛠️ LANGUAGES         [██████████████████████████████] Python | TypeScript | JS | Dart | SQL | Java
+ 🐳 INFRASTRUCTURE    [████████████████████████] Linux | Docker | GitHub Actions | PostgreSQL | Supabase
+ 🧠 AI / ML DATA      [████████████████████] FastAPI | TensorFlow | PyTorch | Data Pipelines
+ 🎨 INTERFACES        [██████████████] Flutter | React.js | TailwindCSS
+
+```
+
+---
+
+## 📊 LIVE DIAGNOSTICS & SYSTEM METRICS
+
+---
+
+## 🪵 COLD ROOM MEMORY LOGS (SYSTEM HISTORY)
+
+```css
+[2026-05-18] :: Optimizing core backend architectures. Structural latency minimized.
+[2026-05-14] :: Initialized training weights for rural ML pipelines.
+[2026-05-09] :: Containerized complete development ecosystem via Docker Compose.
+[2026-05-03] :: Deep dive into distributed systems fundamentals & consensus protocols.
+
+```
+
+## 📍 OPERATOR TELEMETRY
+
+```txt
++--------------------------------------------------------------------------+
+|  "There is a difference between knowing the path and walking the path." |
++--------------------------------------------------------------------------+
+|  [STATUS: OPERATIONAL]  [PIPELINE: UNBROKEN]  [ENVIRONMENT: CONSTANT]    |
++--------------------------------------------------------------------------+
+
+```
